@@ -1,0 +1,23 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+@media (min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
+
+.showcase {
+    background-image: url(/my_site/site/media/Code_pic.jpg) ;
+}
+
+.img1 {
+    background-image: url(/my_site/site/media/Code_pic2.jpg);
+}
+
+.cards {
+    background-image: url(/my_site/site/media/Code_pic2.jpg);
+}
